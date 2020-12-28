@@ -5,7 +5,7 @@
 
 ## 使用
 
-添加Secrets。
+添加Secrets 。
 
 ![image-20200911102829911](assets/image-20200911102829911.png)
 
